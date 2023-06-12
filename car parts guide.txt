@@ -1,0 +1,8 @@
+The following stuff requires its own section:
+- SavePosition
+- triger collider
+- Wear
+- Junk spawn chance
+- Mesh damage
+- PaintingSystem
+- Chroming

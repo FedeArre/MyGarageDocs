@@ -1,0 +1,3 @@
+Car guide:
+- Root transparents
+- Start options
